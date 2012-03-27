@@ -109,7 +109,6 @@ class Services_Bitly
 
         $apiUrl = $this->baseUrl . '/shorten?' . http_build_query($queryParameters);
 
-    var_dump($apiUrl);
         $curl   = curl_init();
         curl_setopt($curl,  CURLOPT_URL,            $apiUrl);
         curl_setopt($curl,  CURLOPT_HEADER,         false);
