@@ -6,9 +6,10 @@
  * @category    Services
  * @package     Services_Bitly
  * @author      tknzk <info@tknzk.com>
- * @copyright   Copyright (c) 2009-2010, tknzk.com All rights reserved.
+ * @copyright   Copyright (c) 2009-2012, tknzk.com All rights reserved.
  * @license     BSD License
  * @link        http://openpear.org/package/Services_Bitly
+ * @link        https://github.com/tknzk/Services_Bitly
  * @link        http://bit.ly
  *
  */
